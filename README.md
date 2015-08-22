@@ -1,10 +1,15 @@
 #_.apa
 ## (Underscore Array Prototype Append)
 
+Wrap underscore methods as array methods
+for those of us who thinks it is ok to extend the Array.prototype
+for sweeter syntax - but with the option to turn this on/off
+
 Thomas Frank 2015, MIT Licensed
 [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT)
 
-Dependencies: Load underscore.js before this library
+###Dependencies:
+Load underscore.js before this library
 [http://underscorejs.org/](http://underscorejs.org/)
 
 ###Usage:
@@ -12,10 +17,6 @@ _.apa.on() - add underscore methods as array methods
 _.apa.off() - remove underscore methods as array methods
 
 #####Please Note: On by default after loading this library!
-
-Wrap underscore methods as array methods
-for those of us who thinks it is ok to extend the Array.prototype
-for sweeter syntax - but with the option to turn this on/off
 
 ##Examples
 
