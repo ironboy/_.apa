@@ -11,13 +11,13 @@ Dependencies: Load underscore.js before this library
 _.apa.on() - add underscore methods as array methods
 _.apa.off() - remove underscore methods as array methods
 
-####Please Note: On by default after loading this library!
+#####Please Note: On by default after loading this library!
 
 Wrap underscore methods as array methods
 for those of us who thinks it is ok to extend the Array.prototype
 for sweeter syntax - but with the option to turn this on/off
 
-##EXAMPLES:
+##Examples
 
 Given the array:
 ```javascript
