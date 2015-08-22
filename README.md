@@ -13,8 +13,14 @@ Load underscore.js before this library
 [http://underscorejs.org/](http://underscorejs.org/)
 
 ###Usage:
-_.apa.on() - add underscore methods as array methods
-_.apa.off() - remove underscore methods as array methods
+Add underscore methods as array methods
+```javascript
+_.apa.on()
+```
+Remove underscore methods as array methods:
+```javascript
+_.apa.off()
+```
 
 #####Please Note: On by default after loading this library!
 
