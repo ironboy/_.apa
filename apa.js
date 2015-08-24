@@ -17,7 +17,7 @@
   Please Note: On by default after loading this library!
 
   Wrap underscore methods as array methods
-  for those of us who thinks it is ok to extend the Array.prototype
+  for those of us who think it is ok to extend the Array.prototype
   for sweeter syntax - but with the option to turn this on/off
 
   EXAMPLES:
