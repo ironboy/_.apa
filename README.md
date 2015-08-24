@@ -1,7 +1,7 @@
 #_.apa
 ## (Underscore Array Prototype Append)
 
-Wrap underscore methods as array methods
+Wraps underscore methods as array methods
 for those of us who think it is ok to extend the Array.prototype
 for sweeter syntax - but with the option to turn this on/off.
 
