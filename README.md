@@ -2,8 +2,8 @@
 ## (Underscore Array Prototype Append)
 
 Wrap underscore methods as array methods
-for those of us who thinks it is ok to extend the Array.prototype
-for sweeter syntax - but with the option to turn this on/off
+for those of us who think it is ok to extend the Array.prototype
+for sweeter syntax - but with the option to turn this on/off.
 
 Thomas Frank 2015, MIT Licensed
 [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT)
