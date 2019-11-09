@@ -13,7 +13,7 @@ Load underscore.js before this library
 [http://underscorejs.org/](http://underscorejs.org/)
 
 ###Usage:
-Add underscore methods as array methods:
+Add underscore methods as array methods: 
 ```javascript
 _.apa.on()
 ```
