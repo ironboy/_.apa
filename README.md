@@ -52,5 +52,3 @@ instead of
 _.chain(stooges).pluck('name').shuffle().value();
 ``` 
 etc.
-
- 
